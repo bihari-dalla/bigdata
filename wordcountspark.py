@@ -1,4 +1,4 @@
-#Q. Write a program to perform word count / Frequency using Spark.
+#Pract4 Q. Write a program to perform word count / Frequency using Spark.
 # Input file path in DBFS or Workspace
 input_file = "/Workspace/Users/atharvabandre@gmail.com/1st.txt"
 # Read the text file as a DataFrame
