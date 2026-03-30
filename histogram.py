@@ -1,3 +1,4 @@
+#Practical 5 Implement Spark program to Movie Lens Movie Rating Dataset. Run your first Spark program! Ratings histogram example.
 # Load the ratings dataset
 ratings_df = spark.table("workspace.default.movie_ratings")
 
