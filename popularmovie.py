@@ -1,3 +1,4 @@
+#pract6 Implement Spark program to Find the Most Popular Movie
 movies = spark.read.table(
 "workspace.default.movie_ratings"
 )
