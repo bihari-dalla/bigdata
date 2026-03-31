@@ -1,5 +1,5 @@
 #pract8 Build a Movie Rating Prediction System using Random Forest in PySpark
-
+#create similar movies from one million ratings
 from pyspark.sql import SparkSession
 from pyspark.ml.regression import RandomForestRegressor
 from pyspark.ml.evaluation import RegressionEvaluator
