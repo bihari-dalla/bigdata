@@ -1,3 +1,4 @@
+#pract9
 #linearregression ,fabricate, online store data
 from pyspark.ml.feature import VectorAssembler
 from pyspark.ml.regression import LinearRegression
